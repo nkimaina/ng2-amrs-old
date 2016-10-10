@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mhawila/ng-amrs.svg?branch=master)](https://travis-ci.org/mhawila/ng2-amrs)
+[![Build Status](https://travis-ci.org/ampath/ng-amrs.svg?branch=master)](https://travis-ci.org/ampath/ng2-amrs)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 # Table of Contents
