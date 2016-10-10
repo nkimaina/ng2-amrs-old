@@ -29,7 +29,7 @@ before_script:
   - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then nohup bash -c "webdriver-manager start 2>&1 &"; fi  # Protractor CI
 
 after_failure:
-  - cat /home/travis/build/mhawila/ng2-amrs/npm-debug.log
+  - cat /home/travis/build/ampath/ng2-amrs/npm-debug.log
 
 branches:
   only: master

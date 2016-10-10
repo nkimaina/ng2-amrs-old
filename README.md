@@ -27,7 +27,7 @@ In order to start the seed use:
 
 
 ```bash
-git clone https://github.com/mhawila/ng2-amrs.git
+git clone https://github.com/ampath/ng2-amrs.git
 cd ng2-amrs
 # install the project's dependencies
 npm install
